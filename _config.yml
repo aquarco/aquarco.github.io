@@ -1,0 +1,8 @@
+title: aquarco
+description: AI agents in a sealed world
+url: "https://aquarco.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - CLAUDE.md
